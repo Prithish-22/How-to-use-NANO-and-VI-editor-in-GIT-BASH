@@ -1,0 +1,6 @@
+To use Nano editor in GIT bash here are the steps:
+	
+	--> First open Gitbash and type Nano <your file name> and click enter
+	--> Second You can see a another page in that page you can use to write whatever you want 
+	-->After Completing simply you can save it bu Ctrl+S 
+	-->To exit the Nano editor Means Press Ctrl+x 

@@ -1,0 +1,7 @@
+This shows how to use VI editor:
+
+	-->Fist open the Git Bash And write vi to open vi editor
+	-->Second a screen will open you need to press i to insert anything
+	-->and you can write want ever you want 
+	-->Pressing esc button exit vi editor but not fully
+	-->you need to press :wq: and enter for for quit wq for save and quit
